@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RunSettings>
+  <TestRunParameters>
+    
+     <!-- URL Details -->
+    <Parameter name="URL" value="http://hudl.com/"/>   
+
+    <!-- Invalid UserDetails -->
+    <Parameter name="UserName" value="test"/>
+    <Parameter name="Password" value="test"/>
+    
+    <!-- Valid UserDetails -->
+    <Parameter name="ValidUserName" value="Please add your user details"/>
+    <Parameter name="ValidPassword" value="Please add your password details"/>
+  
+  </TestRunParameters>    
+</RunSettings>
